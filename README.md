@@ -7,4 +7,4 @@ En este repositorio es donde se guardarán archivos sobre lo visto en clases de 
 Adicional a ello, también se encuentra un archivo de Drive, especificamente de .docs; que son las bitacoras de clase.
 
 **
-(Cristian Montealegre)[https://www.linkedin.com/in/cristian-montealegre-b8638b24a/]
+(Cristian G Montealegre)[https://www.linkedin.com/in/cristian-montealegre-b8638b24a/]
